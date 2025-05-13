@@ -9,7 +9,7 @@ main {
 }
 
 h1 {
-  font-size: clamp(1.8rem, 10vw, 5rem); /*the use of min, preffered, max value creates a responsive text design*/
+  font-size: clamp(1.8rem, calc(7vw + 1rem), 5rem); /*the use of min, preffered, max value creates a responsive text design we can also use calc to add something to a value.*/
 }
 
 
