@@ -1,0 +1,12 @@
+
+main {
+  position: fixed;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: min(5em, 7%); /*This is the relative padding that chooses value1 if it is smaller and chooses value2 if it not*/
+  background-color: rgb(233, 245, 255);
+  width: 400px;
+  box-shadow: 0px 10px 20px rgba(0,0,0, 0.2);
+  box-sizing: border-box;
+}
