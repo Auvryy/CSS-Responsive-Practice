@@ -11,7 +11,7 @@ header {
   position: fixed;
   top: 10px;
   left: 50%;
-  transform: translate(-50%, 10%);
+  transform: translate(-50%, 15%);
   width: 80%;
   background-color: white;
   display: flex;
